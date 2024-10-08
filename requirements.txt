@@ -1,0 +1,10 @@
+customtkinter>=5.1.2
+matplotlib>=3.5.2
+networkx>=2.8.4
+pandas>=1.4.4
+Pillow>=9.2.0
+seaborn>=0.11.2
+tkinter
+numpy
+spicy
+requests
